@@ -1,0 +1,52 @@
+.mickey{
+text-align:center;
+background-color: deeppink;
+}
+h2{
+font-family:
+}
+#bio{
+line-height:1.3;
+}
+#mickey{
+margin-bottom: 50px;
+border-radius: 50%;
+margin-top:50px;
+height:200px;
+}
+#me{
+margin-bottom: 50px;
+border-radius: 100%;
+margin-top:50px;
+height:195px;
+
+}
+.welcome{
+text-align:center;
+background:linear-gradient(#ecfe0a 50%,#07dbf9 85%)
+}
+h2{
+    font-family: 'Yellowtail', cursive;
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    position: absolute;
+    top:10px;
+    right:30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float:left;
+    color:#ffffff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 12px;
+}
+.links:hover{
+    background-color: blue;
+}
