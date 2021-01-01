@@ -52,4 +52,9 @@ h2{
 }
 #reviews{
     text-align:center;
+    background-color: burlywood;
+}
+#work{
+    text-align: center;
+    background-color:hotpink;
 }
