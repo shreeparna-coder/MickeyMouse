@@ -1,4 +1,4 @@
-.mickey{
+#mickey{
 text-align:center;
 background-color: deeppink;
 }
@@ -8,7 +8,7 @@ font-family:
 #bio{
 line-height:1.3;
 }
-#mickey{
+#mickeyimg{
 margin-bottom: 50px;
 border-radius: 50%;
 margin-top:50px;
@@ -21,7 +21,7 @@ margin-top:50px;
 height:195px;
 
 }
-.welcome{
+#welcome{
 text-align:center;
 background:linear-gradient(#ecfe0a 50%,#07dbf9 85%)
 }
@@ -37,7 +37,7 @@ h2{
     z-index: 10;
     cursor: pointer;
 }
-.links{
+.link{
     float:left;
     color:#ffffff;
     padding-top: 5px;
@@ -47,6 +47,9 @@ h2{
     font-family: fantasy;
     font-size: 12px;
 }
-.links:hover{
+.link:hover{
     background-color: blue;
+}
+#reviews{
+    text-align:center;
 }
